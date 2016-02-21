@@ -1,2 +1,3 @@
 # hello-world
 This is my repository
+Hi, This is Albert I am new to the github and trying to get used to it...
